@@ -1,0 +1,22 @@
+{
+  "name": "react-quiz-component-clone",
+  "version": "1.0.0",
+  "description": "react-quiz-component with customization",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morfio/react-quiz-component-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morfio/react-quiz-component-clone/issues"
+  },
+  "homepage": "https://github.com/morfio/react-quiz-component-clone#readme"
+}
