@@ -2,7 +2,7 @@
   "name": "react-quiz-component-clone",
   "version": "1.0.0",
   "description": "react-quiz-component with customization",
-  "main": "index.js",
+  "main": "lib/Quiz.js",
   "directories": {
     "lib": "lib"
   },
