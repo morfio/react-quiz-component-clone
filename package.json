@@ -1,11 +1,8 @@
 {
   "name": "react-quiz-component-clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-quiz-component with customization",
   "main": "lib/Quiz.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
 	"dev": "concurrently \"npm run lib:watch\" \"npm run docs\"",
     "docs": "webpack-dev-server --mode development",
